@@ -9,7 +9,7 @@
 
 .pagination button{
     width: 80px;
-    background-color: #3874ff;
+    background-color: #430303;
     color: #fff;
     border: none;
     padding: 5px 10px;
@@ -20,7 +20,7 @@
 
 .pagination p{
     display: inline-block;
-    border: 1px solid #3874ff;
+    border: 1px solid #430303;
     width: 25px;
     text-align: center;
     border-radius: 5px;
@@ -32,5 +32,5 @@
 }
 
 .selected{
-    background-color: #3874ff;
+    background-color: #430303;
 }
